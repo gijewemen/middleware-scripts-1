@@ -1,7 +1,7 @@
 #!/bin/bash
 
-  # Author----Kazeem
-  #Date-------Nov-02-2022
+  # Author----Godwin
+  #Date-------Jan-17-2023
   #Description---Script that will install Docker-compose on Centos7
 
  sudo yum update -y
